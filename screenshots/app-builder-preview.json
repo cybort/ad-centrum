@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "直至银心",
+      "hasCanvas": true,
+      "bodyTextLen": 2952,
+      "bodyTextHash": "82e329f02030b2d05b6267b3d1bd47e801624c342583b28077d74c62ca881a2f",
+      "bodyTextPrefix": "直至银心 声音 刻度 0 公里 · 距地心 地心 · 光行 — 地心 AD CENTRUM 直至银心 六千三百七十一公里。海面以",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "直至银心",
+      "hasCanvas": true,
+      "bodyTextLen": 2952,
+      "bodyTextHash": "82e329f02030b2d05b6267b3d1bd47e801624c342583b28077d74c62ca881a2f",
+      "bodyTextPrefix": "直至银心 声音 刻度 0 公里 · 距地心 地心 · 光行 — 地心 AD CENTRUM 直至银心 六千三百七十一公里。海面以",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
